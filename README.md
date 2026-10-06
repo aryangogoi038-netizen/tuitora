@@ -340,10 +340,4 @@ See the LICENSE file for details.
 
 ---
 
-## Author
 
-**Pratyay Pratim Borah**
-
-- GitHub: [@PratyayPB](https://github.com/PratyayPB)
-- LinkedIn: [Pratyay Pratim Borah](https://www.linkedin.com/in/pratyaypratimborah/)
-- Portfolio: [https://portfolio-pratyay.vercel.app/](https://portfolio-pratyay.vercel.app/)
